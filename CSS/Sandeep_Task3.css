@@ -1,0 +1,40 @@
+
+
+.nav-item{
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-weight: 500;
+}
+ #content{
+    margin-top: 50px;
+    
+ }
+#left{
+    background-color:  #FFCCCC;
+    height: 820px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+ 
+}
+#si{
+    margin-top: 420px;
+}
+.col{
+    background-color:#8482D1;
+    height: 400px;
+    margin: 10px;
+
+    
+}
+#footer{
+    background-color: #735A43;
+    text-align: center;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+/* float-sm-md-lg-xl-bottom
+-sm-md-lg-xl- */
+/* col-sm-12 col-md-4 col-lg-6 */
